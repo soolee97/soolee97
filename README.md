@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Soo Hyun Lee</h3>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=로고&logoColor=#071D49"/></a>
+<a href="https://github.com/soolee97" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=로고&logoColor=#071D49"/></a>
 
-![SooHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=soolee97ID&show_icons=true&theme=dark)
+![SooHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=soolee97&show_icons=true&theme=dark)
