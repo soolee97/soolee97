@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Soo%Lee&fontColor=d6ace6&fontSize=40)
 
 <div align=center><h1>📚 STACKS</h1></div>
-<div aline=center>
+<div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
