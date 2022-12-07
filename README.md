@@ -11,7 +11,7 @@
   <h2>:book:My Skill Stacks:book:</h2>
 
   <p>:pencil2:Studing</p>
-  <img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <br>
