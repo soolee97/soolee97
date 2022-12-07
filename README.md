@@ -2,10 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Soo%Lee&fontColor=d6ace6&fontSize=40)
 
 <div align=center>
-  <h1>Hello My name is Soo!:smiley:</h1>
+  <h2>Intro:smiley:</h2>
+  <p>I'm Soohyun Lee, dreaming of becoming a developer.:notebook:</p>
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>My 📚 STACKS</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
