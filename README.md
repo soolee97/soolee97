@@ -27,6 +27,6 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   <br>
 
-  <hr>
+
 ![SooHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=soolee97&show_icons=true&theme=dark)
 </div>
