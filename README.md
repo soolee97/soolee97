@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Soo%Lee&fontColor=d6ace6&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Soo%Lee&fontColor=auto&fontSize=40)
 
 <div align=center>
   <h2>:wave:Introduce</h2>
