@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Soo%Lee&fontColor=d6ace6&fontSize=40)
 
+<div align=center>
+  <h1>Hello My name is Soo!:smiley:</h1>
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
