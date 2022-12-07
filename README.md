@@ -6,8 +6,9 @@
   <p>I'm Soohyun Lee, dreaming of becoming a developer.:notebook:</p>
 </div>
 
-<div align=center><h2>:book:My Skill Stacks:book:</h2></div>
 <div align=center>
+  <h2>:book:My Skill Stacks:book:</h2>
+
   <p>:pencil2:Studing</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
@@ -24,9 +25,8 @@
   <br>
   <p>:iphone:SNS</p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  <br>
 
-
-<br>
-
+  <hr>
 ![SooHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=soolee97&show_icons=true&theme=dark)
 </div>
