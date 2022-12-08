@@ -9,6 +9,10 @@
 
 <div align=center>
   <h2>:book:My Skill Stacks:book:</h2>
+  
+  <p>:computer:Work Space</p>
+  <p>Window 64X</p>
+  <br>
 
   <p>:pencil2:Studing</p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
@@ -33,6 +37,8 @@
   <p>:book:Have Used</p>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FIleZilla&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
   <br>
   
   <p>:iphone:SNS</p>
