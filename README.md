@@ -32,6 +32,7 @@
   
   <p>:book:Have Used</p>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FIleZilla&logoColor=white">
   <br>
   
   <p>:iphone:SNS</p>
