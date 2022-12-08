@@ -19,13 +19,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <br>
-  
-  <p>:pencil:Experienced</p>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">   
-  <br>
-  
+    
   <p>:wrench:Tools</p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
@@ -34,11 +28,15 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white">
   <br>
   
-  <p>:book:Have Used</p>
+  <p>:pencil:Have Experienced</p>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=FIleZilla&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">   
   <br>
   
   <p>:iphone:SNS</p>
