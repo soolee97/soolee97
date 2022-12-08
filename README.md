@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-  <br>
+  <br><br>
     
   <p>:wrench:Tools</p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white">
-  <br>
+  <br><br>
   
   <p>:pencil:Have Experienced</p>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
@@ -42,11 +42,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+  <br><br>
   
   <p>:iphone:SNS</p>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"> 
-  <br>
-  <br>
+  <br><br>
 
   <h2>:triangular_flag_on_post:Git Status</h2>
 
