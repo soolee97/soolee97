@@ -23,15 +23,15 @@
   <br>
   
   <p>:wrench:Tools</p>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Codea-007ACC?style=flat-square&logo=Visual Studio Codea&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=black">
   <br>
   
   <p>:book:Have Used</p>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=black">
   <br>
   
   <p>:iphone:SNS</p>
